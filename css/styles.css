@@ -23,7 +23,10 @@ a {
 	color: inherit;
 }
 
-h2, h3, h4, .bold, #filters-section {
+h2, h3, h4,
+.bold,
+#filters-section,
+#research-txt {
 	font-family: 'Raleway-bold', 'TimesNewRoman';
 }
 
@@ -222,7 +225,7 @@ main {
 }
 
 .grey {
-	color: #9b9b9b;
+	color: #e2e2e2;
 }
 
 #toggle-card {
