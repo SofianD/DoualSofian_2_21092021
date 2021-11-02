@@ -42,8 +42,14 @@ h3 {
 	font-size: 13px;
 }
 
-.fa-info-circle {
+.fa-info {
 	color: #0065FC;
+	border: 1px solid grey;
+	font-size: 12px;
+	width: 12px;
+	text-align: center;
+	padding: 2px;
+	border-radius: 100%;
 }
 
 body {
