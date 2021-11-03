@@ -44,11 +44,11 @@ h3 {
 
 .fa-info {
 	color: #0065FC;
-	border: 1px solid grey;
-	font-size: 12px;
-	width: 12px;
+	border: 1px solid #e2e2e2;
+	font-size: 11px;
+	width: 11px;
 	text-align: center;
-	padding: 2px;
+	padding: 4px;
 	border-radius: 100%;
 }
 
